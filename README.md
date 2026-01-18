@@ -1,6 +1,7 @@
 # ICMP Taffic capture (Wireshark)
 Analyzed live traffic between a local host and a remote Google server
 Successfully captured echo requests and echo reply packets
+![Wireshark Capture](Screenshot_20260118_191532_Google.jpeg)
 ---
 ## Peer-to-Peer connectivity (Packet Tracer)
 Connecting two identical PCs using the correct physical cabling
