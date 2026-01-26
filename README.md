@@ -12,3 +12,4 @@ The fix: Use a crossover cable to phisically swap the internal wires so one PCs 
 ---
 ### MAC Spoofing(lab 03)
 Objective: Successfully modified the hardware identifier (MAC Address) of a network interface using macchanger.
+![MAC Spoofing](macchanger.jpg)
