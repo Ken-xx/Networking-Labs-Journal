@@ -9,3 +9,6 @@ Identical devices speak on the same physical pins (TX). A standard cable causes 
 ![The failure](straight%20through,%20pc%20to%20pc.jpg)
 The fix: Use a crossover cable to phisically swap the internal wires so one PCs speak hits the others listen.
 ![The Succcess](crossover,%20pc%20to%20pc.jpg)
+---
+### MAC Spoofing(lab 03)
+Objective: Successfully modified the hardware identifier (MAC Address) of a network interface using macchanger.
