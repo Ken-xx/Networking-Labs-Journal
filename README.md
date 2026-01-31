@@ -13,3 +13,10 @@ The fix: Use a crossover cable to phisically swap the internal wires so one PCs 
 ### MAC Spoofing(lab 03)
 Objective: Successfully modified the hardware identifier (MAC Address) of a network interface using macchanger.
 ![MAC Spoofing](macchanger.jpg)
+---
+#### Small Office Connectivity
+Objective: Successfully networked three pcs through a Cisco 2960 switch
+Verified layer 3 logic by successfully executing a ping command from Host O to Host 2
+Subnet masks are critical for local device to recognize each other as neighbours
+![Small Office](smalloffice1.jpg)
+![Small Office](smalloffice2.jpg)
